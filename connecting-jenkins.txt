@@ -1,1 +1,0 @@
-Verifying whether the jenkins is fetching this file and cloning it in the jenkins workspace. 
